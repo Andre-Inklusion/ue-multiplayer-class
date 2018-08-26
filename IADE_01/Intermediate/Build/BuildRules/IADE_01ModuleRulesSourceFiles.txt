@@ -1,0 +1,3 @@
+D:\inKlusion\Ensino\Unreal Multiplayer\IADE_01\Source\IADE_01\IADE_01.Build.cs
+D:\inKlusion\Ensino\Unreal Multiplayer\IADE_01\Source\IADE_01.Target.cs
+D:\inKlusion\Ensino\Unreal Multiplayer\IADE_01\Source\IADE_01Editor.Target.cs
